@@ -1,0 +1,40 @@
+{
+  "inputPassword": {
+    "name": "password",
+    "maxLength": 7,
+    "minLength": 3,
+    "placeholder": "enter your unique password",
+    "type": "password"
+  },
+
+  "inputNickName": {
+    "name": "nickName",
+    "nickName": "nickName",
+    "maxLength": 10,
+    "minLength": 4,
+    "placeholder": "enter your nickname",
+    "type": "text"
+  },
+
+  "inputEmail": {
+    "name": "email",
+    "maxLength": 10,
+    "minLength": 4,
+    "placeholder": "enter your email",
+    "type": "email"
+  },
+  "inputLogin": {
+    "name": "login",
+    "maxLength": 10,
+    "minLength": 4,
+    "placeholder": "enter your login",
+    "type": "text"
+  },
+  "inputConfirmPassword": {
+    "name": "confirmPassword",
+    "maxLength": 7,
+    "minLength": 4,
+    "placeholder": "confirmPassword",
+    "type": "password"
+  }
+}
